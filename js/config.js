@@ -96,7 +96,9 @@ var l_musicPlaylist = [
 	{youtube: "GFQYaoiIFh8", name: "Demons - Imagine Dragons"},
 	{youtube: "VdHAgXsiqR4", name: "DIA 다이아 - 그 길에서 (On the road)"},
 	{youtube: "Yim4--J44gk", name: "OneRepublic - Counting Stars"},
-	{youtube: "2B50RUXbs-8", name: "Rihanna - Love The Way You Lie (Part 2)"}
+	{youtube: "2B50RUXbs-8", name: "Rihanna - Love The Way You Lie (Part 2)"},
+	{youtube: "Op1NEHHO0us", name: "Red Velvet (레드벨벳) – Russian Roulette (러시안 룰렛)"},
+	{youtube: "a-U8uDGk9_Q", name: "Psycho-Pass 2 - サイコパス2"},
 ];
 
 /*Random music order?*/
